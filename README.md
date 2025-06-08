@@ -286,3 +286,5 @@ For technical support or questions:
 ---
 
 **ShopBot** - Revolutionizing e-commerce through AI-powered shopping assistance.
+
+**Made with ❤️ by Vatsal Srivastava**
