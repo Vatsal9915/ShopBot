@@ -276,10 +276,6 @@ NEXTAUTH_SECRET=your_secret_key_here
 - Document new features
 - Maintain backward compatibility
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Support
 
 For technical support or questions:
