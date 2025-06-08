@@ -1,4 +1,5 @@
 # ShopBot - AI-Powered E-commerce Chatbot
+Project Deployment Link: https://shop-bot-lac.vercel.app/
 
 ## Overview
 
